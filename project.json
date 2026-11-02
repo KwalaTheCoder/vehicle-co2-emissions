@@ -1,0 +1,13 @@
+{
+  "domain": "fuel-emissions",
+  "task": "regression",
+  "targets": [
+    "CO2EMISSIONS"
+  ],
+  "exclude": [
+    "CO2_per_MPG",
+    "MAKE",
+    "MODEL",
+    "MODELYEAR"
+  ]
+}

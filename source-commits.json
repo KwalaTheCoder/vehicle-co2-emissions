@@ -1,0 +1,980 @@
+[
+  {
+    "sha": "b19479e5da76f3626a57fce20863decb3d848db0",
+    "node_id": "C_kwDONOZ-KNoAKGIxOTQ3OWU1ZGE3NmYzNjI2YTU3ZmNlMjA4NjNkZWNiM2Q4NDhkYjA",
+    "commit": {
+      "author": {
+        "name": "Navid",
+        "email": "kwalapv82@gmail.com",
+        "date": "2026-10-24T00:59:59Z"
+      },
+      "committer": {
+        "name": "Navid",
+        "email": "kwalapv82@gmail.com",
+        "date": "2026-10-24T00:59:59Z"
+      },
+      "message": "Improve repository documentation and hygiene",
+      "tree": {
+        "sha": "ef8268e04652ad3ae40e3d4dc1d541bbf754014c",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/trees/ef8268e04652ad3ae40e3d4dc1d541bbf754014c"
+      },
+      "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/commits/b19479e5da76f3626a57fce20863decb3d848db0",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/b19479e5da76f3626a57fce20863decb3d848db0",
+    "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/b19479e5da76f3626a57fce20863decb3d848db0",
+    "comments_url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/b19479e5da76f3626a57fce20863decb3d848db0/comments",
+    "author": {
+      "login": "KwalaTheCoder",
+      "id": 166326155,
+      "node_id": "U_kgDOCenviw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166326155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KwalaTheCoder",
+      "html_url": "https://github.com/KwalaTheCoder",
+      "followers_url": "https://api.github.com/users/KwalaTheCoder/followers",
+      "following_url": "https://api.github.com/users/KwalaTheCoder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KwalaTheCoder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KwalaTheCoder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KwalaTheCoder/subscriptions",
+      "organizations_url": "https://api.github.com/users/KwalaTheCoder/orgs",
+      "repos_url": "https://api.github.com/users/KwalaTheCoder/repos",
+      "events_url": "https://api.github.com/users/KwalaTheCoder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KwalaTheCoder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "KwalaTheCoder",
+      "id": 166326155,
+      "node_id": "U_kgDOCenviw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166326155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KwalaTheCoder",
+      "html_url": "https://github.com/KwalaTheCoder",
+      "followers_url": "https://api.github.com/users/KwalaTheCoder/followers",
+      "following_url": "https://api.github.com/users/KwalaTheCoder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KwalaTheCoder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KwalaTheCoder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KwalaTheCoder/subscriptions",
+      "organizations_url": "https://api.github.com/users/KwalaTheCoder/orgs",
+      "repos_url": "https://api.github.com/users/KwalaTheCoder/repos",
+      "events_url": "https://api.github.com/users/KwalaTheCoder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KwalaTheCoder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ea5c4dbf7a4f30a204085a1fb4356093e19e6796",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/ea5c4dbf7a4f30a204085a1fb4356093e19e6796",
+        "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/ea5c4dbf7a4f30a204085a1fb4356093e19e6796"
+      }
+    ]
+  },
+  {
+    "sha": "ea5c4dbf7a4f30a204085a1fb4356093e19e6796",
+    "node_id": "C_kwDONOZ-KNoAKGVhNWM0ZGJmN2E0ZjMwYTIwNDA4NWExZmI0MzU2MDkzZTE5ZTY3OTY",
+    "commit": {
+      "author": {
+        "name": "KwalaTheCoder",
+        "email": "166326155+KwalaTheCoder@users.noreply.github.com",
+        "date": "2025-01-26T05:24:37Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2025-01-26T05:24:37Z"
+      },
+      "message": "Add files via upload",
+      "tree": {
+        "sha": "5743cfc5cb9a2e63d664e34d5af1ea6ad82aba31",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/trees/5743cfc5cb9a2e63d664e34d5af1ea6ad82aba31"
+      },
+      "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/commits/ea5c4dbf7a4f30a204085a1fb4356093e19e6796",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnlccVCRC1aQ7uu5UhlAAAXDAQAKikYxO8u/bv5h00KR51Mbhg\n1tW4RSBgg8oPsIbRnkd9UyvL2HHjCQb8FF7K7P8w+0KtptPB5k3k+qQviqHUSf9M\n9wt8Zqws991adYqXdMdwa/Bl+B02DLHYehyF2Rt2IcVDgGQXcizoYAfD3tjZL6Jk\nBIXFeyz9KQFrNFCyeDSxva2SZ/QyOxwIOdyp8ZlIxpYyrXQecM2jl3EmOLlBHKmu\n/cLswaUtva1v1j3eLeDJIQBIQtPtFGPrYFS1/LXEAwNXjVV8rIH50DeBaRsYiKU+\naUw1BLBFa6mMJjrJKuzwXjvbLEO3kdYKQ86dC1k0OyEBTDfLZc7BKX0NOYGAhqwo\nxI8SUmdA7vAb6Gt7i9zfApGlX9rpTs6ZETi88ZGc/YG7tNRg3t/Ooeai7CdlOGjQ\nokJe67UNoYc8OA/aabGJG3vCJpBo62t69k5NkWimAejxadfApnLy5dF1Iji/Hslr\n68PCJCLbzM+jH4CL8/k+qekGWF7W/xLYIJBh6l4chXNrQFYEAXbScvRjIJAdPCdQ\nXyxHCSv9ycgziSpMIWI5udaDHfmoCoJPw4TflqfuYq2fSi7xTEujPJ8PKX6Yke5D\n4xNBnpr2GOzrdfJD2k7yOS1aN0c5AZa3GtTtr+sJZ+rHT0lCWfNjwDMuPAKTBxUp\ngPeUp83Xm57GTHVs957a\n=XoYo\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 5743cfc5cb9a2e63d664e34d5af1ea6ad82aba31\nparent d46b36fd67062dd6185453769e660655f261fb11\nauthor KwalaTheCoder <166326155+KwalaTheCoder@users.noreply.github.com> 1737869077 -0800\ncommitter GitHub <noreply@github.com> 1737869077 -0800\n\nAdd files via upload",
+        "verified_at": "2025-01-26T05:29:39Z"
+      }
+    },
+    "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/ea5c4dbf7a4f30a204085a1fb4356093e19e6796",
+    "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/ea5c4dbf7a4f30a204085a1fb4356093e19e6796",
+    "comments_url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/ea5c4dbf7a4f30a204085a1fb4356093e19e6796/comments",
+    "author": {
+      "login": "KwalaTheCoder",
+      "id": 166326155,
+      "node_id": "U_kgDOCenviw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166326155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KwalaTheCoder",
+      "html_url": "https://github.com/KwalaTheCoder",
+      "followers_url": "https://api.github.com/users/KwalaTheCoder/followers",
+      "following_url": "https://api.github.com/users/KwalaTheCoder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KwalaTheCoder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KwalaTheCoder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KwalaTheCoder/subscriptions",
+      "organizations_url": "https://api.github.com/users/KwalaTheCoder/orgs",
+      "repos_url": "https://api.github.com/users/KwalaTheCoder/repos",
+      "events_url": "https://api.github.com/users/KwalaTheCoder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KwalaTheCoder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d46b36fd67062dd6185453769e660655f261fb11",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/d46b36fd67062dd6185453769e660655f261fb11",
+        "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/d46b36fd67062dd6185453769e660655f261fb11"
+      }
+    ]
+  },
+  {
+    "sha": "d46b36fd67062dd6185453769e660655f261fb11",
+    "node_id": "C_kwDONOZ-KNoAKGQ0NmIzNmZkNjcwNjJkZDYxODU0NTM3NjllNjYwNjU1ZjI2MWZiMTE",
+    "commit": {
+      "author": {
+        "name": "KwalaTheCoder",
+        "email": "166326155+KwalaTheCoder@users.noreply.github.com",
+        "date": "2025-01-26T05:23:56Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2025-01-26T05:23:56Z"
+      },
+      "message": "Delete Spam.ipynb",
+      "tree": {
+        "sha": "35fb389664eb5750ca92b4e95932cc29d722fde8",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/trees/35fb389664eb5750ca92b4e95932cc29d722fde8"
+      },
+      "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/commits/d46b36fd67062dd6185453769e660655f261fb11",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnlcbsCRC1aQ7uu5UhlAAAoScQAI0v0THjwthanF/8LdZpXUVj\nXhnNNim5h29VDTZrC7QLblthB42XgPI7plM0cxgtKhjtT9SZEwhmBBSxFrbz9FhD\nV9zoFItEH14IiCk323mdtBYIgdqMENXPUn2SSJnDxsndPwnQmkvUd4WvbWToN+cu\n6RHeg82Im086DgoZGkRqeoz/erbund0pkcS9LWq+qaEwy2MqbNo/1KkwLuFpFxp0\nawoFj/7WQotwQZwDxe9vnxunL4Yh7UPP+BNj6FJ4isnKjkqkHlgCoyQy2JyJsqIf\npwDQuBNunrCpM2tocI/t2X0JsApGgc9Im7P94k+VQmfwYu9JV0Ho/HhfsvjSGV4T\nV9vDROeWoc7TuzTLjaET+JpenfG/ZwTJ7cqGdlpwD96kqOhFmXaDEtW3B6IFXVdT\nBE11S8xiJm4rv6SHdYdp5nCgrZ0jI+qLL5gWb76zoQiBII5L5nQw1s0h7RwbYSj7\nMITNmgWFRIh9PKKwlM9f7OT/MZgDGsSJOv5Gh0I+x9FYHjvo299OCdtRb9iKtcfO\nWFZpIOI/8M2Wp75AXh49AInoUVgyMNeJ/wwXrZ9x5sJa8CJm+dBncpoyItuGb2ke\ndPYOmvAa/PGiOCNQay+WMZqIwNa3v/Y0dzNr+NpC3Rw9UjUFyUem0iTsU9d+7cez\n0KsIbJj6Wiw2A0l8njU2\n=ixcV\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 35fb389664eb5750ca92b4e95932cc29d722fde8\nparent 81d2f9c5c2adbba46eacd3b9faea22a74f40d84f\nauthor KwalaTheCoder <166326155+KwalaTheCoder@users.noreply.github.com> 1737869036 -0800\ncommitter GitHub <noreply@github.com> 1737869036 -0800\n\nDelete Spam.ipynb",
+        "verified_at": "2025-01-26T05:28:57Z"
+      }
+    },
+    "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/d46b36fd67062dd6185453769e660655f261fb11",
+    "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/d46b36fd67062dd6185453769e660655f261fb11",
+    "comments_url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/d46b36fd67062dd6185453769e660655f261fb11/comments",
+    "author": {
+      "login": "KwalaTheCoder",
+      "id": 166326155,
+      "node_id": "U_kgDOCenviw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166326155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KwalaTheCoder",
+      "html_url": "https://github.com/KwalaTheCoder",
+      "followers_url": "https://api.github.com/users/KwalaTheCoder/followers",
+      "following_url": "https://api.github.com/users/KwalaTheCoder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KwalaTheCoder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KwalaTheCoder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KwalaTheCoder/subscriptions",
+      "organizations_url": "https://api.github.com/users/KwalaTheCoder/orgs",
+      "repos_url": "https://api.github.com/users/KwalaTheCoder/repos",
+      "events_url": "https://api.github.com/users/KwalaTheCoder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KwalaTheCoder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "81d2f9c5c2adbba46eacd3b9faea22a74f40d84f",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/81d2f9c5c2adbba46eacd3b9faea22a74f40d84f",
+        "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/81d2f9c5c2adbba46eacd3b9faea22a74f40d84f"
+      }
+    ]
+  },
+  {
+    "sha": "81d2f9c5c2adbba46eacd3b9faea22a74f40d84f",
+    "node_id": "C_kwDONOZ-KNoAKDgxZDJmOWM1YzJhZGJiYTQ2ZWFjZDNiOWZhZWEyMmE3NGY0MGQ4NGY",
+    "commit": {
+      "author": {
+        "name": "KwalaTheCoder",
+        "email": "166326155+KwalaTheCoder@users.noreply.github.com",
+        "date": "2025-01-23T21:02:41Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2025-01-23T21:02:41Z"
+      },
+      "message": "Spam.ipynb",
+      "tree": {
+        "sha": "8a5c6f04766ebe36a18364cf5f1576d46446e847",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/trees/8a5c6f04766ebe36a18364cf5f1576d46446e847"
+      },
+      "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/commits/81d2f9c5c2adbba46eacd3b9faea22a74f40d84f",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnkq5xCRC1aQ7uu5UhlAAABxgQADuZmyLopWL1+sIOfM+8wX3H\nxVFiBcq4TLuwA74VkvofjP+a/u4CNkBvZ0aUVEBdFlPSyoov0Ow+0zONSnTK7Nq5\nE2Yv/78kiheHuDOA+byW9idH8pGIkroK31XLpjWBiMWx7eKaobbKCX8xaFGXl4e1\n+1jYiscW1Fizj7B2Ul35bDdrkanG07eKtemofUJsq9g38Ki6bM9M5VfQFltNpn/d\nj9Eayc4VkKvKyhzXPu71wwivIcFfpHTTGkRrOITmIxjh9t89EGrzhv122oehJwFB\n5ql1cBBd5uCnPpYgamxd3vzrl7QOK/hwbxd6CMQMk+tmcuF2jOrqzBE4FkvHTypn\nXiy6nkceFxvRBekfuplZ8jXRgTKNveJFlUkrGVdeMKiCzrGXRJCkhql0qeqpCMq4\n5Eb7HLhLHErL18GcQiDfYB8sXq0oKw5RPZF/N9Yrm5m0ka72KU8iXeUxsqJFzVkY\nLzCzkl0KCdZfb9sZUmqJ7szaCPdGJxbPlIp2HDMurGCY8EpvP3L+RwSXTb6TmJvS\nROAmgnGRzbViEOQhQGdl9PkzNvv4Xyx54k+w61c2HKWm+s9hdhA73QlvCfIIgEcz\n7q0QEZAFOwce77BLmy03GHGN86rZpTn0KCgqh4PBrjQB2nwffPO2hX+za0B3Cw4c\nu2QZ7nReO2HGOTZpiVTv\n=CrrB\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 8a5c6f04766ebe36a18364cf5f1576d46446e847\nparent 8790cd905b131dc3070517ae5126ee776b481d54\nauthor KwalaTheCoder <166326155+KwalaTheCoder@users.noreply.github.com> 1737666161 -0800\ncommitter GitHub <noreply@github.com> 1737666161 -0800\n\nSpam.ipynb",
+        "verified_at": "2025-01-23T21:07:43Z"
+      }
+    },
+    "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/81d2f9c5c2adbba46eacd3b9faea22a74f40d84f",
+    "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/81d2f9c5c2adbba46eacd3b9faea22a74f40d84f",
+    "comments_url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/81d2f9c5c2adbba46eacd3b9faea22a74f40d84f/comments",
+    "author": {
+      "login": "KwalaTheCoder",
+      "id": 166326155,
+      "node_id": "U_kgDOCenviw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166326155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KwalaTheCoder",
+      "html_url": "https://github.com/KwalaTheCoder",
+      "followers_url": "https://api.github.com/users/KwalaTheCoder/followers",
+      "following_url": "https://api.github.com/users/KwalaTheCoder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KwalaTheCoder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KwalaTheCoder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KwalaTheCoder/subscriptions",
+      "organizations_url": "https://api.github.com/users/KwalaTheCoder/orgs",
+      "repos_url": "https://api.github.com/users/KwalaTheCoder/repos",
+      "events_url": "https://api.github.com/users/KwalaTheCoder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KwalaTheCoder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8790cd905b131dc3070517ae5126ee776b481d54",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/8790cd905b131dc3070517ae5126ee776b481d54",
+        "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/8790cd905b131dc3070517ae5126ee776b481d54"
+      }
+    ]
+  },
+  {
+    "sha": "8790cd905b131dc3070517ae5126ee776b481d54",
+    "node_id": "C_kwDONOZ-KNoAKDg3OTBjZDkwNWIxMzFkYzMwNzA1MTdhZTUxMjZlZTc3NmI0ODFkNTQ",
+    "commit": {
+      "author": {
+        "name": "KwalaTheCoder",
+        "email": "166326155+KwalaTheCoder@users.noreply.github.com",
+        "date": "2025-01-23T03:49:19Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2025-01-23T03:49:19Z"
+      },
+      "message": "Add files via upload",
+      "tree": {
+        "sha": "0449374b45b90238ab92e9ac8357f3d4ae407bbc",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/trees/0449374b45b90238ab92e9ac8357f3d4ae407bbc"
+      },
+      "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/commits/8790cd905b131dc3070517ae5126ee776b481d54",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnkbw/CRC1aQ7uu5UhlAAAyaAQAE18vknNElXZyP8Ha6RT1H8G\nUX7AveSA80w5dgV1100IHHKswixS0xhFOGKQoHpjiiJFesROzXRRWynYQCfEvXyk\nDQYFvtoeuwX4cn61mYWJ8Irf8eD08MpTU2ihEoQseJ6B/eGKQ6CkWI6JODl2kmUF\ndxqhMUIdVbpC8sXYKE7KkVTUPxdUwfYGvbLX/buyaf+2aFBnl2cMb2NGbWleQGWm\nTJZyrYaoAeb5uXYyAZnHoM6XenMvfG5M4LyPeHATGh+XPwhizaw+icQiyzwLoTM0\nSz2onufEupXvr/ROkKyaLBIkftRsxvsM+k97mSTf8ML3TJ89tZohScPulPGbPGRd\nhbEW3GHngmXUqh/flWl5eLbQJQpaB3Onp3EX75T1oGxK+iLZpJnxrHtgYUMVs+Ea\nxYgd5aUMUwddDUqNiNH6k237epiHWCNjKKoTf8UNbU5q+IF0h7UJJBFrcCITMVKq\nxisBgVlwORUu+1ELlfSiVc83SPL7SveE+QtZRih9RVUrQsgHdgdDwqJIw1jROodQ\nWu4oKkcizGaWoSiMFP/UpqjEEHIqJztCZqIE8jgDFyHjWHpgEngpt1wiifEDKnCn\noK7M+/aeFHucW/ohl1YajCS+dfXDcZZ9v2RQGZ4L5U71t2ZuBKXyiQNOU+mISbEi\nu/hRdJwKhn+L0+WOP42j\n=vNO/\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 0449374b45b90238ab92e9ac8357f3d4ae407bbc\nparent 8abc26cb8ebf09522496a9d080a3db1981cac367\nauthor KwalaTheCoder <166326155+KwalaTheCoder@users.noreply.github.com> 1737604159 -0800\ncommitter GitHub <noreply@github.com> 1737604159 -0800\n\nAdd files via upload",
+        "verified_at": "2025-01-23T03:54:21Z"
+      }
+    },
+    "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/8790cd905b131dc3070517ae5126ee776b481d54",
+    "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/8790cd905b131dc3070517ae5126ee776b481d54",
+    "comments_url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/8790cd905b131dc3070517ae5126ee776b481d54/comments",
+    "author": {
+      "login": "KwalaTheCoder",
+      "id": 166326155,
+      "node_id": "U_kgDOCenviw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166326155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KwalaTheCoder",
+      "html_url": "https://github.com/KwalaTheCoder",
+      "followers_url": "https://api.github.com/users/KwalaTheCoder/followers",
+      "following_url": "https://api.github.com/users/KwalaTheCoder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KwalaTheCoder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KwalaTheCoder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KwalaTheCoder/subscriptions",
+      "organizations_url": "https://api.github.com/users/KwalaTheCoder/orgs",
+      "repos_url": "https://api.github.com/users/KwalaTheCoder/repos",
+      "events_url": "https://api.github.com/users/KwalaTheCoder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KwalaTheCoder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8abc26cb8ebf09522496a9d080a3db1981cac367",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/8abc26cb8ebf09522496a9d080a3db1981cac367",
+        "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/8abc26cb8ebf09522496a9d080a3db1981cac367"
+      }
+    ]
+  },
+  {
+    "sha": "8abc26cb8ebf09522496a9d080a3db1981cac367",
+    "node_id": "C_kwDONOZ-KNoAKDhhYmMyNmNiOGViZjA5NTIyNDk2YTlkMDgwYTNkYjE5ODFjYWMzNjc",
+    "commit": {
+      "author": {
+        "name": "KwalaTheCoder",
+        "email": "166326155+KwalaTheCoder@users.noreply.github.com",
+        "date": "2025-01-20T00:08:29Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2025-01-20T00:08:29Z"
+      },
+      "message": "Add files via upload",
+      "tree": {
+        "sha": "35fb389664eb5750ca92b4e95932cc29d722fde8",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/trees/35fb389664eb5750ca92b4e95932cc29d722fde8"
+      },
+      "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/commits/8abc26cb8ebf09522496a9d080a3db1981cac367",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnjZP9CRC1aQ7uu5UhlAAA5KMQAJa99wAUKPst9iz8CFLgdy4w\ny3c40OkAoGCI0EYcADvbJr6JsDyzH2+8KFp52MGOgfNtM+coRjWGnlTF2P8BUCpF\nKwUPNmEWoALI3g0OEnV2ejbU3XuSePCcKF/F4LxdBXlxuzzfJtemDgOK6Vcd5I1o\nJCkVGdFsrR0ia4xudRo151vHoIljGrg+9Kpv+HHuGd3e/7ZlqxmwL8Jex08h05iM\nEpVGKQvTqP4YI9DLzknHVCcJ+NV8ghzCAEyz1KTKEUYw4aqt9aINcymaEj/v/+cj\nDGOpCRDpJcrNEuSws2TFywKfd5Ghu4FQ1xTG2VED/ucDHXP6XRu17WEpdzvjTxFj\nv6JsRS6ZaySUt1ofg/LUpZ1RV/3mf2R1CrgWiibX5rfy4HPpcMnpdfOYcak7sbtq\nokJfZ7RPUAYRdz/t9+2NdKRJ3CpjPXoP47VlkjsQfQcpFAkV3O4IKII4vF0xBlQt\nltBWeyHFEw7ovpt83iDplR3HuPz40tfb0YpZdol+6aK8MbdO2p7LM+3N40rfx5Vj\nn82JLkYcGvlp9KAVzn8FVciVsBWrBHh3QI1dMmg1zFV/QzRXc6t2x7ZoG/+RJMCP\nFm3zc2tKI25j+tIAcr49DAFQj3VedquKp/ooWTeNOhWBKTxSVAkirSWqOzBO/oU/\nV0Ciroup37ODR0LwDhWZ\n=RUuz\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 35fb389664eb5750ca92b4e95932cc29d722fde8\nparent af371b0d8878c39c6818369b0f7e217eef2d66dd\nauthor KwalaTheCoder <166326155+KwalaTheCoder@users.noreply.github.com> 1737331709 -0800\ncommitter GitHub <noreply@github.com> 1737331709 -0800\n\nAdd files via upload",
+        "verified_at": "2025-01-20T00:13:31Z"
+      }
+    },
+    "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/8abc26cb8ebf09522496a9d080a3db1981cac367",
+    "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/8abc26cb8ebf09522496a9d080a3db1981cac367",
+    "comments_url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/8abc26cb8ebf09522496a9d080a3db1981cac367/comments",
+    "author": {
+      "login": "KwalaTheCoder",
+      "id": 166326155,
+      "node_id": "U_kgDOCenviw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166326155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KwalaTheCoder",
+      "html_url": "https://github.com/KwalaTheCoder",
+      "followers_url": "https://api.github.com/users/KwalaTheCoder/followers",
+      "following_url": "https://api.github.com/users/KwalaTheCoder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KwalaTheCoder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KwalaTheCoder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KwalaTheCoder/subscriptions",
+      "organizations_url": "https://api.github.com/users/KwalaTheCoder/orgs",
+      "repos_url": "https://api.github.com/users/KwalaTheCoder/repos",
+      "events_url": "https://api.github.com/users/KwalaTheCoder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KwalaTheCoder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "af371b0d8878c39c6818369b0f7e217eef2d66dd",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/af371b0d8878c39c6818369b0f7e217eef2d66dd",
+        "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/af371b0d8878c39c6818369b0f7e217eef2d66dd"
+      }
+    ]
+  },
+  {
+    "sha": "af371b0d8878c39c6818369b0f7e217eef2d66dd",
+    "node_id": "C_kwDONOZ-KNoAKGFmMzcxYjBkODg3OGMzOWM2ODE4MzY5YjBmN2UyMTdlZWYyZDY2ZGQ",
+    "commit": {
+      "author": {
+        "name": "KwalaTheCoder",
+        "email": "166326155+KwalaTheCoder@users.noreply.github.com",
+        "date": "2025-01-20T00:06:30Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2025-01-20T00:06:30Z"
+      },
+      "message": "Delete Credit_Risk.ipynb",
+      "tree": {
+        "sha": "163e4459f34f26aae59446e147b4f31f4a091d2e",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/trees/163e4459f34f26aae59446e147b4f31f4a091d2e"
+      },
+      "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/commits/af371b0d8878c39c6818369b0f7e217eef2d66dd",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnjZOGCRC1aQ7uu5UhlAAA0L4QADDw03tBaCtY14Le5Oi1nhse\n1+ufRYIA2cRFlwPFiuQJlI/pJLpNjBTpyfepD0Bl+yn5DXNGMQ3d1u1BdqEwxm8p\nbAqPM1ub6dqJogGWlo1MlWySJ2zsbZmBk8afAIljn44jq12AAolY+k/8IGP9trEt\nD30hRLSMkrMQ5rzshXFE2LPaSL1Bh7Uvv0EWPJpVQ8yxYzo19BXgS4wcO45wcRsC\nc0elI78HTmp4rdHkXl17XpFG6EzMlkM3BN7rC1NOkxhJjYX+cZYVgTYygoRd3t7l\n1Wt7WqAMjaXWPBhSuga581K1pMtuvp5Q/WgbJmtbqx30VOVg2UtQM8GP5k1LIKcZ\nfEMusB4OaeHu6amr1tctSsJ41Urph2aYB5JqdlR7fh6zEEmR6WtruopJrc1jQBRm\njrUUG6TvB/p2B1o15ZEveUnFzVwdsqHLhsvETUyGpjL81XN6MPGc7WvjSXe1I2D1\n55UKfHoFYoP5EO5W2+DDGj7n18RGAmaLxf5EeS6k4J3Vg4TxWYxmrD2w7IiBHM/u\njYyw17iumygIfabmP8S5wabtjrpu4iGyh+BXF1D6c2U9vCr32qK7To2OfOYuSYUO\nKgNNsvS9HV3Um6sgeMn5p5DPGmFMohbXbsOAtRaRVfykHfV5UVPS0NZvAar6ZEGY\neookSULNfdDTePtv9vPQ\n=xwPh\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 163e4459f34f26aae59446e147b4f31f4a091d2e\nparent f5e385f691acf1c240b3f7e02b4691222a2f729b\nauthor KwalaTheCoder <166326155+KwalaTheCoder@users.noreply.github.com> 1737331590 -0800\ncommitter GitHub <noreply@github.com> 1737331590 -0800\n\nDelete Credit_Risk.ipynb",
+        "verified_at": "2025-01-20T00:11:32Z"
+      }
+    },
+    "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/af371b0d8878c39c6818369b0f7e217eef2d66dd",
+    "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/af371b0d8878c39c6818369b0f7e217eef2d66dd",
+    "comments_url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/af371b0d8878c39c6818369b0f7e217eef2d66dd/comments",
+    "author": {
+      "login": "KwalaTheCoder",
+      "id": 166326155,
+      "node_id": "U_kgDOCenviw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166326155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KwalaTheCoder",
+      "html_url": "https://github.com/KwalaTheCoder",
+      "followers_url": "https://api.github.com/users/KwalaTheCoder/followers",
+      "following_url": "https://api.github.com/users/KwalaTheCoder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KwalaTheCoder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KwalaTheCoder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KwalaTheCoder/subscriptions",
+      "organizations_url": "https://api.github.com/users/KwalaTheCoder/orgs",
+      "repos_url": "https://api.github.com/users/KwalaTheCoder/repos",
+      "events_url": "https://api.github.com/users/KwalaTheCoder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KwalaTheCoder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f5e385f691acf1c240b3f7e02b4691222a2f729b",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/f5e385f691acf1c240b3f7e02b4691222a2f729b",
+        "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/f5e385f691acf1c240b3f7e02b4691222a2f729b"
+      }
+    ]
+  },
+  {
+    "sha": "f5e385f691acf1c240b3f7e02b4691222a2f729b",
+    "node_id": "C_kwDONOZ-KNoAKGY1ZTM4NWY2OTFhY2YxYzI0MGIzZjdlMDJiNDY5MTIyMmEyZjcyOWI",
+    "commit": {
+      "author": {
+        "name": "KwalaTheCoder",
+        "email": "166326155+KwalaTheCoder@users.noreply.github.com",
+        "date": "2025-01-19T23:57:00Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2025-01-19T23:57:00Z"
+      },
+      "message": "Add files via upload",
+      "tree": {
+        "sha": "d525b3f72c22059bec10d940b6d5e142e2f00d6e",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/trees/d525b3f72c22059bec10d940b6d5e142e2f00d6e"
+      },
+      "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/commits/f5e385f691acf1c240b3f7e02b4691222a2f729b",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnjZFNCRC1aQ7uu5UhlAAAxHMQADcMKocOCUo/U2PkRm9EssOb\ncwGdt3ohnhswEIYIt1KISZknfGEDLp8JhqQoK12GH7qrwRXJ73jVlUT8Hs5N6ife\nfQWuOQgmhoZ9J+K9/MOqb8I9cnr22QNbkmorWBxZDUrrhgBq3+hYJyhNgOgDpY8c\noWpbycj1XMhvoR7KGP4KeKCV1AQ8+qlCoZ5Kq9jZ8CF8ZwiR9pr29gaV46NWDLR7\nuidn4fP6539xDmC8NCom8gesSLWqXoimllp+3t7BfeAAOZIkL14uNQKakBm7x9nK\nOsa8ZTCxwwaFg3NhpLzrwx/OrQBQ/Zm0LiFLfk3FPqFudafHqi07EPRmjGcwNUOj\n+lr8m6QLGmapoQc24TqgOoxESduLkVy7evtk+Z3Xd4bxfvtKtbQqjldpTpEFTmlC\nqdcMWvVToi7qtEwH6XFyGzIOmXDF7dqbYbYWwtcXFRVJjwnxf5V/ISdddBrUC201\nlc+nhTruHFTUu8NGg3ID6Qh8XRKM3jkenp8SeW6l47eLDlbjH9DW7aoQItO0yCPB\n6uUt1HMWo6HNuFmrVV7pbVeirNsrqnmhkERcL0uvYdpNbIMJSwR/r3dCW9BG3zBp\n7R5BDPxIQ4zbJ0rX8Uz9AWvT0X0E11oT8ths/1p0QhOGkYmrzbtZ6HtusGD4LSyH\nU6TITENqDg8ssKU4S2bq\n=ZJ4y\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree d525b3f72c22059bec10d940b6d5e142e2f00d6e\nparent 33da9e66a6a1914447695f6fc8ea36195e797a67\nauthor KwalaTheCoder <166326155+KwalaTheCoder@users.noreply.github.com> 1737331020 -0800\ncommitter GitHub <noreply@github.com> 1737331020 -0800\n\nAdd files via upload",
+        "verified_at": "2025-01-20T00:02:02Z"
+      }
+    },
+    "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/f5e385f691acf1c240b3f7e02b4691222a2f729b",
+    "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/f5e385f691acf1c240b3f7e02b4691222a2f729b",
+    "comments_url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/f5e385f691acf1c240b3f7e02b4691222a2f729b/comments",
+    "author": {
+      "login": "KwalaTheCoder",
+      "id": 166326155,
+      "node_id": "U_kgDOCenviw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166326155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KwalaTheCoder",
+      "html_url": "https://github.com/KwalaTheCoder",
+      "followers_url": "https://api.github.com/users/KwalaTheCoder/followers",
+      "following_url": "https://api.github.com/users/KwalaTheCoder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KwalaTheCoder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KwalaTheCoder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KwalaTheCoder/subscriptions",
+      "organizations_url": "https://api.github.com/users/KwalaTheCoder/orgs",
+      "repos_url": "https://api.github.com/users/KwalaTheCoder/repos",
+      "events_url": "https://api.github.com/users/KwalaTheCoder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KwalaTheCoder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "33da9e66a6a1914447695f6fc8ea36195e797a67",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/33da9e66a6a1914447695f6fc8ea36195e797a67",
+        "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/33da9e66a6a1914447695f6fc8ea36195e797a67"
+      }
+    ]
+  },
+  {
+    "sha": "33da9e66a6a1914447695f6fc8ea36195e797a67",
+    "node_id": "C_kwDONOZ-KNoAKDMzZGE5ZTY2YTZhMTkxNDQ0NzY5NWY2ZmM4ZWEzNjE5NWU3OTdhNjc",
+    "commit": {
+      "author": {
+        "name": "KwalaTheCoder",
+        "email": "166326155+KwalaTheCoder@users.noreply.github.com",
+        "date": "2025-01-19T23:56:07Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2025-01-19T23:56:07Z"
+      },
+      "message": "Delete Credit_Risk.ipynb",
+      "tree": {
+        "sha": "163e4459f34f26aae59446e147b4f31f4a091d2e",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/trees/163e4459f34f26aae59446e147b4f31f4a091d2e"
+      },
+      "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/commits/33da9e66a6a1914447695f6fc8ea36195e797a67",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnjZEXCRC1aQ7uu5UhlAAAjM4QAJQaWrem7fFGKn3pvyB3Hum0\n6nMmXRoFtaHWEfgsF/GgwAqkj+6egVtyTloeeB3S8N3lNi6WBOGH0HtfkiJhr17C\nRGLZV04vJP4ZAhqOASJXllm6HcMxfsPM/lhkKwhqN9+pxNRuMFsYY5tFhRiY+u6Y\nDd5nLKSHZQYgfD2hiMAaQ9OzOWj1tUwJ6aAyhoWtM7xaGmg6YhJsSaCztgl0J5Wz\nahk1f8eTFjM8vAu2cOJOAeddpj5JXq6ByYnz8kwBoHf43U+nKqdbY8QZHnG3Xd6F\nllTZp9j2V9rqHWYWNaCgEI+B6tFMPS6LFaNLUoZ1G2CbO8gZ8f8Njxk/ixXp7SEM\nip8gWsI3GwCJ6xqn2cuopyN7I2386nLiGZRpDZc5FtYZwv9XtQXfv4ZsrQQJcgt4\nKtkEz5LwBk7KAEMmXqlasrJh1YM/UeluBnR9kY0RoqVsluF4SMxSMkWcYE3s9tNw\niH+xu4oikhf3uLAhb26on3gy06d9OW0hENlrx22C6cE24o8mogTiGy+MtpB7YnJI\n0hSL1D/NPhUjab7FFKu9Mgjw0FqZm0/e0T0A95/antSRBNetgwiKtxIhNTH+2Whq\nNpzhpC7QIO2flb0Tb9TevZOg3rxRg7feuMTaBAPWfgWfQmRYFoDqQmFvXCMKonS2\nnXIXsuBvt8gsVNyA7Rkj\n=shtj\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 163e4459f34f26aae59446e147b4f31f4a091d2e\nparent 7a0ef767e5a8c962b42e8b60b310e86b2eec3bef\nauthor KwalaTheCoder <166326155+KwalaTheCoder@users.noreply.github.com> 1737330967 -0800\ncommitter GitHub <noreply@github.com> 1737330967 -0800\n\nDelete Credit_Risk.ipynb",
+        "verified_at": "2025-01-20T00:01:09Z"
+      }
+    },
+    "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/33da9e66a6a1914447695f6fc8ea36195e797a67",
+    "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/33da9e66a6a1914447695f6fc8ea36195e797a67",
+    "comments_url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/33da9e66a6a1914447695f6fc8ea36195e797a67/comments",
+    "author": {
+      "login": "KwalaTheCoder",
+      "id": 166326155,
+      "node_id": "U_kgDOCenviw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166326155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KwalaTheCoder",
+      "html_url": "https://github.com/KwalaTheCoder",
+      "followers_url": "https://api.github.com/users/KwalaTheCoder/followers",
+      "following_url": "https://api.github.com/users/KwalaTheCoder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KwalaTheCoder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KwalaTheCoder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KwalaTheCoder/subscriptions",
+      "organizations_url": "https://api.github.com/users/KwalaTheCoder/orgs",
+      "repos_url": "https://api.github.com/users/KwalaTheCoder/repos",
+      "events_url": "https://api.github.com/users/KwalaTheCoder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KwalaTheCoder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7a0ef767e5a8c962b42e8b60b310e86b2eec3bef",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/7a0ef767e5a8c962b42e8b60b310e86b2eec3bef",
+        "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/7a0ef767e5a8c962b42e8b60b310e86b2eec3bef"
+      }
+    ]
+  },
+  {
+    "sha": "7a0ef767e5a8c962b42e8b60b310e86b2eec3bef",
+    "node_id": "C_kwDONOZ-KNoAKDdhMGVmNzY3ZTVhOGM5NjJiNDJlOGI2MGIzMTBlODZiMmVlYzNiZWY",
+    "commit": {
+      "author": {
+        "name": "KwalaTheCoder",
+        "email": "166326155+KwalaTheCoder@users.noreply.github.com",
+        "date": "2025-01-19T23:40:52Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2025-01-19T23:40:52Z"
+      },
+      "message": "Add files via upload",
+      "tree": {
+        "sha": "3fc96ac7db7898ba46f4ad0dbcbe1c3f9f7384e8",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/trees/3fc96ac7db7898ba46f4ad0dbcbe1c3f9f7384e8"
+      },
+      "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/commits/7a0ef767e5a8c962b42e8b60b310e86b2eec3bef",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnjY2ECRC1aQ7uu5UhlAAAiYIQAKZG+d02U85gXvXKnC4sqcHl\njUj2nBfhDuQz8Odl5zhCdexkw2CdhsmZ/ZiHj2f3ZEP3KfMcvxB6YIHQviBZJlWy\nxxzG1pidgHg4R/sB2vKneLzwp6QV8X1vt2JDjPi0MbanWVv0vJVUAv5LRZhcY7qd\nGln/UImwxqDk/vzXHEGrLjQh1y9H16FhHPuZoTa9rgTFQ32I3yNl3UGgnAnVnBok\nSkdFKpMfuKWFPgsG+8oq8BzpJht4JlPtDkibn38JI5isvJwJO2hI/jX8mtCeAdZV\nKuAYMtioNuNGR2bvTX+wYUse16sidczsrsvDhCrPkLDMpomlZxDmq6AyoUbP4z9/\nlTJDoCLTzpCKn2u9TfotlHuh93sKj/IvKxSYmi+eDnOfqgjlEiuQEUqBJ95mVlyP\nHxoxOefGOxYNq1m7ACM6Ptpd0dD0bobfRR4+mvGp7TV4YHOhSVPcK1Mv73QPndGE\nJm1MT1+3DWWQrHyNaKeSuXuTL5E8uGvW/TSuONFZqiy6GzZfD9UGCKKH9obDu18G\nR3VstC7pPjuZCJH+FqLU8baBG+lM4xrXi0GDzFOe2sZYCAzFTiZMxa8DzqSodBGZ\nerbYtbC7FmfnPEg8TjNBjAqzrj96UjkPLUzeEHpcP0IH6zDtdlMVD4NF3tThLJ6D\nO0koDvB5+Cc6MTGGk3R3\n=vFU+\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 3fc96ac7db7898ba46f4ad0dbcbe1c3f9f7384e8\nparent 845b62b8990e59ac678ef8a43af6d3e90a8c19c2\nauthor KwalaTheCoder <166326155+KwalaTheCoder@users.noreply.github.com> 1737330052 -0800\ncommitter GitHub <noreply@github.com> 1737330052 -0800\n\nAdd files via upload",
+        "verified_at": "2025-01-19T23:45:54Z"
+      }
+    },
+    "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/7a0ef767e5a8c962b42e8b60b310e86b2eec3bef",
+    "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/7a0ef767e5a8c962b42e8b60b310e86b2eec3bef",
+    "comments_url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/7a0ef767e5a8c962b42e8b60b310e86b2eec3bef/comments",
+    "author": {
+      "login": "KwalaTheCoder",
+      "id": 166326155,
+      "node_id": "U_kgDOCenviw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166326155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KwalaTheCoder",
+      "html_url": "https://github.com/KwalaTheCoder",
+      "followers_url": "https://api.github.com/users/KwalaTheCoder/followers",
+      "following_url": "https://api.github.com/users/KwalaTheCoder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KwalaTheCoder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KwalaTheCoder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KwalaTheCoder/subscriptions",
+      "organizations_url": "https://api.github.com/users/KwalaTheCoder/orgs",
+      "repos_url": "https://api.github.com/users/KwalaTheCoder/repos",
+      "events_url": "https://api.github.com/users/KwalaTheCoder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KwalaTheCoder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "845b62b8990e59ac678ef8a43af6d3e90a8c19c2",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/845b62b8990e59ac678ef8a43af6d3e90a8c19c2",
+        "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/845b62b8990e59ac678ef8a43af6d3e90a8c19c2"
+      }
+    ]
+  },
+  {
+    "sha": "845b62b8990e59ac678ef8a43af6d3e90a8c19c2",
+    "node_id": "C_kwDONOZ-KNoAKDg0NWI2MmI4OTkwZTU5YWM2NzhlZjhhNDNhZjZkM2U5MGE4YzE5YzI",
+    "commit": {
+      "author": {
+        "name": "KwalaTheCoder",
+        "email": "166326155+KwalaTheCoder@users.noreply.github.com",
+        "date": "2025-01-18T22:31:59Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2025-01-18T22:31:59Z"
+      },
+      "message": "Add files via upload",
+      "tree": {
+        "sha": "163e4459f34f26aae59446e147b4f31f4a091d2e",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/trees/163e4459f34f26aae59446e147b4f31f4a091d2e"
+      },
+      "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/commits/845b62b8990e59ac678ef8a43af6d3e90a8c19c2",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnjCvfCRC1aQ7uu5UhlAAAqIsQAJ82n3BhuE+KUSyBUY0yIyXa\nS7EA8WXq9Bunq4LDh4w8SmQnBjmwvKMhqFPpz8wlGcj+5QVGBRdeue+FA3x8NSH9\nMjFppApSvHnlALaqkMImuhu4cWA8FKazpCYNsPSKBRj8PFeEc72nFpfCnPgG7B5Y\nqn/NyPdlOlUdJehFyJHElrxoH/Rd/12RrxeVftCSez/3UCeTPUAsTHd9aRgPGzW1\n7WLX0DFON0b5+R02GM4aYcuFKiwKIDoPW7kG57WwAN5KJLi9/s2ErILR+S8x+RhH\nHOk51wshIgeG8ku9Az0JZ1Gsn6jW3BZB7jNcymbWW1KII0AjyHfasYFa21V4nDT8\nFtcEJt9C4ASQDxnovzlm3S8wWoWr+yGpzWOOjibDf2fpY8YIiI3seCfFfYDE4OiM\nMxKeLVh9wjNTQYubRnCCGYlwr7xFNpEguJluy+YJCwRYKnJcd/JrS9P1SHke7fd2\nJhsC0YL+G8wxLD0wvc2PY39GsVEHu7sMkUTn5xJCvlT5+xfepd31coo9pG73iXXq\nr8sqtI7/vxrNTaGFzLlVJZ24CcyO4jo8dMcpf+gTS67OsRvmXcZQ/+HYgoqS//5n\nmegg/+j/wX+zUj3btE16T9GA+Yk4N1tqfIBBmRi1kIfUcV9DDhrsXB5b7y0YawAp\nMZCzcGWkvPkA4itb2YP5\n=bcYM\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 163e4459f34f26aae59446e147b4f31f4a091d2e\nparent deacaa030664ca4e8defb985b74a8ef9e99b36a6\nauthor KwalaTheCoder <166326155+KwalaTheCoder@users.noreply.github.com> 1737239519 -0800\ncommitter GitHub <noreply@github.com> 1737239519 -0800\n\nAdd files via upload",
+        "verified_at": "2025-01-18T22:37:02Z"
+      }
+    },
+    "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/845b62b8990e59ac678ef8a43af6d3e90a8c19c2",
+    "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/845b62b8990e59ac678ef8a43af6d3e90a8c19c2",
+    "comments_url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/845b62b8990e59ac678ef8a43af6d3e90a8c19c2/comments",
+    "author": {
+      "login": "KwalaTheCoder",
+      "id": 166326155,
+      "node_id": "U_kgDOCenviw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166326155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KwalaTheCoder",
+      "html_url": "https://github.com/KwalaTheCoder",
+      "followers_url": "https://api.github.com/users/KwalaTheCoder/followers",
+      "following_url": "https://api.github.com/users/KwalaTheCoder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KwalaTheCoder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KwalaTheCoder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KwalaTheCoder/subscriptions",
+      "organizations_url": "https://api.github.com/users/KwalaTheCoder/orgs",
+      "repos_url": "https://api.github.com/users/KwalaTheCoder/repos",
+      "events_url": "https://api.github.com/users/KwalaTheCoder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KwalaTheCoder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "deacaa030664ca4e8defb985b74a8ef9e99b36a6",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/deacaa030664ca4e8defb985b74a8ef9e99b36a6",
+        "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/deacaa030664ca4e8defb985b74a8ef9e99b36a6"
+      }
+    ]
+  },
+  {
+    "sha": "deacaa030664ca4e8defb985b74a8ef9e99b36a6",
+    "node_id": "C_kwDONOZ-KNoAKGRlYWNhYTAzMDY2NGNhNGU4ZGVmYjk4NWI3NGE4ZWY5ZTk5YjM2YTY",
+    "commit": {
+      "author": {
+        "name": "navidkwala",
+        "email": "kwalapv82@gmail.com",
+        "date": "2024-11-13T05:34:49Z"
+      },
+      "committer": {
+        "name": "navidkwala",
+        "email": "kwalapv82@gmail.com",
+        "date": "2024-11-13T05:34:49Z"
+      },
+      "message": "Added Jupyter Notebooks and project files",
+      "tree": {
+        "sha": "324d4af1086e4caba870137bd4b522d6f76eef28",
+        "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/trees/324d4af1086e4caba870137bd4b522d6f76eef28"
+      },
+      "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/git/commits/deacaa030664ca4e8defb985b74a8ef9e99b36a6",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null,
+        "verified_at": null
+      }
+    },
+    "url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/deacaa030664ca4e8defb985b74a8ef9e99b36a6",
+    "html_url": "https://github.com/KwalaTheCoder/Machine-Learning/commit/deacaa030664ca4e8defb985b74a8ef9e99b36a6",
+    "comments_url": "https://api.github.com/repos/KwalaTheCoder/Machine-Learning/commits/deacaa030664ca4e8defb985b74a8ef9e99b36a6/comments",
+    "author": {
+      "login": "KwalaTheCoder",
+      "id": 166326155,
+      "node_id": "U_kgDOCenviw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166326155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KwalaTheCoder",
+      "html_url": "https://github.com/KwalaTheCoder",
+      "followers_url": "https://api.github.com/users/KwalaTheCoder/followers",
+      "following_url": "https://api.github.com/users/KwalaTheCoder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KwalaTheCoder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KwalaTheCoder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KwalaTheCoder/subscriptions",
+      "organizations_url": "https://api.github.com/users/KwalaTheCoder/orgs",
+      "repos_url": "https://api.github.com/users/KwalaTheCoder/repos",
+      "events_url": "https://api.github.com/users/KwalaTheCoder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KwalaTheCoder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "KwalaTheCoder",
+      "id": 166326155,
+      "node_id": "U_kgDOCenviw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/166326155?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/KwalaTheCoder",
+      "html_url": "https://github.com/KwalaTheCoder",
+      "followers_url": "https://api.github.com/users/KwalaTheCoder/followers",
+      "following_url": "https://api.github.com/users/KwalaTheCoder/following{/other_user}",
+      "gists_url": "https://api.github.com/users/KwalaTheCoder/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/KwalaTheCoder/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/KwalaTheCoder/subscriptions",
+      "organizations_url": "https://api.github.com/users/KwalaTheCoder/orgs",
+      "repos_url": "https://api.github.com/users/KwalaTheCoder/repos",
+      "events_url": "https://api.github.com/users/KwalaTheCoder/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/KwalaTheCoder/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": []
+  }
+]

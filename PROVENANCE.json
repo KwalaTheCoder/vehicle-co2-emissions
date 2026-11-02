@@ -1,0 +1,9 @@
+{
+  "original_author": "KwalaTheCoder",
+  "source_repository": "https://github.com/KwalaTheCoder/Machine-Learning",
+  "source_ref": "b19479e5da76f3626a57fce20863decb3d848db0",
+  "original_notebook": "Fuel_Consumption.ipynb",
+  "notebook_sha256": "bbfb6826cae3cba40793854e77347604036b4a7a17fd19adb537b5828d961435",
+  "authorship": "The original educational notebook was independently created by KwalaTheCoder. This separate refactor was produced with AI assistance. The original is preserved byte-for-byte under legacy/.",
+  "history": "source-commits.json records source commit metadata, not a complete Git object backup. Preserve the original repository or a verified git bundle before deleting it."
+}

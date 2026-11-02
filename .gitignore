@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+artifacts/
+data/
+predictions.csv
+*.joblib
+.env
+.DS_Store

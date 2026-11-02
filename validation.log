@@ -1,0 +1,12 @@
+test_duplicate_predictors_stay_together (test_pipeline.PipelineTests.test_duplicate_predictors_stay_together) ... ok
+test_excluded_leakage_columns_do_not_change_predictions (test_pipeline.PipelineTests.test_excluded_leakage_columns_do_not_change_predictions) ... ok
+test_features_do_not_mutate_inputs (test_pipeline.PipelineTests.test_features_do_not_mutate_inputs) ... ok
+test_missing_predictors_and_unseen_categories_at_inference (test_pipeline.PipelineTests.test_missing_predictors_and_unseen_categories_at_inference) ... ok
+test_missing_target_is_explained (test_pipeline.PipelineTests.test_missing_target_is_explained) ... ok
+test_student_classification_has_no_target_features (test_pipeline.PipelineTests.test_student_classification_has_no_target_features) ... skipped 'Student-specific alternate task'
+test_training_and_artifact_roundtrip (test_pipeline.PipelineTests.test_training_and_artifact_roundtrip) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 1.140s
+
+OK (skipped=1)
