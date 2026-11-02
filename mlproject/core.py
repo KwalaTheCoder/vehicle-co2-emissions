@@ -36,6 +36,14 @@ def read_data(path):
     return pd.read_csv(path)
 
 
+def eligible_frame(df, config, targets):
+    """Apply a target-independent input-availability policy before splitting."""
+    df = df.dropna(subset=targets).copy()
+    if config.get("require_any_features"):
+        df = df.loc[df[config["features"]].notna().any(axis=1)].copy()
+    return df
+
+
 def prepare(df, config, task=None, target=None):
     """Separate labels before any domain transform; reject ambiguous duplicates."""
     task = task or config["task"]
@@ -45,7 +53,9 @@ def prepare(df, config, task=None, target=None):
     missing = set(targets) - set(df)
     if missing:
         raise ValueError(f"Missing target columns: {sorted(missing)}")
-    df = df.dropna(subset=targets).copy()
+    if config.get("require_any_features") and not set(config["features"]) <= set(df):
+        raise ValueError("Missing required predictor columns.")
+    df = eligible_frame(df, config, targets)
     if df.empty:
         raise ValueError("No rows with observed targets.")
     y = df[targets[0]].copy() if len(targets) == 1 else df[targets].copy()
@@ -138,7 +148,7 @@ def train(df, config, output, *, task=None, target=None, seed=42, folds=5,
     groups = duplicate_groups
     grouped = len(np.unique(groups)) != len(X)
     if group_column:
-        groups = df.dropna(subset=[target] if target else config["targets"])[group_column].to_numpy()
+        groups = eligible_frame(df, config, [target] if target else config["targets"])[group_column].to_numpy()
         grouped = True
     if grouped:
         train_idx, test_idx = next(GroupShuffleSplit(n_splits=1, test_size=test_size, random_state=seed).split(X, y, groups))
@@ -204,7 +214,9 @@ def train(df, config, output, *, task=None, target=None, seed=42, folds=5,
               "scoring": scoring, "cv_selection_score": search.best_score_,
               "selected_model": type(model["model"]).__name__, "leaderboard": leaderboard,
               "holdout": metrics, "train_rows": len(train_idx), "test_rows": len(test_idx),
-              "input_rows": len(df), "missing_target_rows_removed": len(df) - len(X),
+              "input_rows": len(df),
+              "missing_target_rows_removed": len(df) - len(df.dropna(subset=[target] if target else config["targets"])),
+              "missing_predictor_rows_removed": len(df.dropna(subset=[target] if target else config["targets"])) - len(X),
               "grouped_split": grouped, "group_column": group_column,
               "features": list(X.columns), "data_fingerprint": digest,
               "versions": {"python": platform.python_version(), "sklearn": sklearn.__version__,
@@ -218,7 +230,7 @@ def train(df, config, output, *, task=None, target=None, seed=42, folds=5,
     out.mkdir(parents=True, exist_ok=True)
     artifact = {"pipeline": model, "features": list(X.columns), "text": config.get("text"),
                 "task": task, "targets": [target] if target else config["targets"],
-                "versions": report["versions"]}
+                "versions": report["versions"], "require_any_features": config.get("require_any_features", False)}
     joblib.dump(artifact, out / "model.joblib")
     (out / "report.json").write_text(json.dumps(report, indent=2, allow_nan=False), encoding="utf-8")
     return report
@@ -231,6 +243,8 @@ def predict(artifact_path, df):
     if missing:
         raise ValueError(f"Missing predictor columns: {sorted(missing)}")
     X = df[artifact["features"]].copy()
+    if artifact.get("require_any_features") and X.isna().all(axis=1).any():
+        raise ValueError("Some rows have no observed predictor values; this model cannot score them.")
     if artifact["text"]:
         X[artifact["text"]] = X[artifact["text"]].fillna("").astype(str)
     model = artifact["pipeline"]

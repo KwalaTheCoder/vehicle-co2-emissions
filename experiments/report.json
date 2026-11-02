@@ -1,0 +1,144 @@
+{
+  "project": "fuel-emissions",
+  "task": "regression",
+  "seed": 42,
+  "folds": 5,
+  "scoring": "neg_mean_absolute_error",
+  "cv_selection_score": -1.6392489170457,
+  "selected_model": "ExtraTreesRegressor",
+  "leaderboard": [
+    {
+      "model": "DummyRegressor",
+      "parameters": {},
+      "cv_score": -50.51009199411785,
+      "cv_std": 1.6166495658464353
+    },
+    {
+      "model": "Ridge",
+      "parameters": {
+        "model__alpha": 0.1
+      },
+      "cv_score": -3.3532951569774374,
+      "cv_std": 0.10082788809172415
+    },
+    {
+      "model": "Ridge",
+      "parameters": {
+        "model__alpha": 1
+      },
+      "cv_score": -3.5837118274527264,
+      "cv_std": 0.13702505141702898
+    },
+    {
+      "model": "Ridge",
+      "parameters": {
+        "model__alpha": 10
+      },
+      "cv_score": -6.072326757401055,
+      "cv_std": 0.7080878968050075
+    },
+    {
+      "model": "RandomForestRegressor",
+      "parameters": {
+        "model__max_depth": null,
+        "model__min_samples_leaf": 2
+      },
+      "cv_score": -2.6304991159749935,
+      "cv_std": 0.9292025536267123
+    },
+    {
+      "model": "RandomForestRegressor",
+      "parameters": {
+        "model__max_depth": null,
+        "model__min_samples_leaf": 5
+      },
+      "cv_score": -4.268231365460307,
+      "cv_std": 1.3354735016937889
+    },
+    {
+      "model": "RandomForestRegressor",
+      "parameters": {
+        "model__max_depth": 12,
+        "model__min_samples_leaf": 2
+      },
+      "cv_score": -2.6219137748271786,
+      "cv_std": 0.9177740861333451
+    },
+    {
+      "model": "RandomForestRegressor",
+      "parameters": {
+        "model__max_depth": 12,
+        "model__min_samples_leaf": 5
+      },
+      "cv_score": -4.268231365460307,
+      "cv_std": 1.3354735016937889
+    },
+    {
+      "model": "ExtraTreesRegressor",
+      "parameters": {
+        "model__max_depth": null,
+        "model__min_samples_leaf": 2
+      },
+      "cv_score": -1.6392489170457,
+      "cv_std": 0.3296950789340364
+    },
+    {
+      "model": "ExtraTreesRegressor",
+      "parameters": {
+        "model__max_depth": null,
+        "model__min_samples_leaf": 5
+      },
+      "cv_score": -3.0319446279300024,
+      "cv_std": 0.6867241291915588
+    },
+    {
+      "model": "ExtraTreesRegressor",
+      "parameters": {
+        "model__max_depth": 12,
+        "model__min_samples_leaf": 2
+      },
+      "cv_score": -1.6685046670110921,
+      "cv_std": 0.3749608624016208
+    },
+    {
+      "model": "ExtraTreesRegressor",
+      "parameters": {
+        "model__max_depth": 12,
+        "model__min_samples_leaf": 5
+      },
+      "cv_score": -3.0747442477940212,
+      "cv_std": 0.7016834843915557
+    }
+  ],
+  "holdout": {
+    "mae": 1.1624989081062194,
+    "rmse": 6.128640892193776,
+    "r2": 0.9914880345087832
+  },
+  "train_rows": 855,
+  "test_rows": 212,
+  "input_rows": 1067,
+  "missing_target_rows_removed": 0,
+  "missing_predictor_rows_removed": 0,
+  "grouped_split": true,
+  "group_column": null,
+  "features": [
+    "VEHICLECLASS",
+    "ENGINESIZE",
+    "CYLINDERS",
+    "TRANSMISSION",
+    "FUELTYPE",
+    "FUELCONSUMPTION_CITY",
+    "FUELCONSUMPTION_HWY",
+    "FUELCONSUMPTION_COMB",
+    "FUELCONSUMPTION_COMB_MPG"
+  ],
+  "data_fingerprint": "62f574c3bc42a9e904583d47dc662e53c18b43943f21631b1d9be0ec9e4630be",
+  "versions": {
+    "python": "3.12.14",
+    "sklearn": "1.8.0",
+    "pandas": "2.2.3",
+    "numpy": "2.3.5"
+  },
+  "note": "CV scores select the model and are optimistic; holdout metrics are the final evaluation. Negative MAE scores are higher-is-better. Synthetic tests are not real-data benchmarks."
+}

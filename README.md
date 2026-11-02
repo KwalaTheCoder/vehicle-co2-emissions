@@ -2,6 +2,10 @@
 
 Standalone refactor of **KwalaTheCoder's independently written Fuel_Consumption.ipynb**. The original work is preserved in `legacy/`; the modern implementation is AI-assisted. See `PROVENANCE.json` for provenance and source hashes.
 
+## Measured evaluation
+
+See [RESULTS.md](RESULTS.md) for the locked real-data experiment, exact input hash, holdout metrics, CV baseline and limitations.
+
 ## What changed
 
 Correctly names the target: the original predicts CO2EMISSIONS, not fuel consumption. Excludes CO2_per_MPG because it contains the answer. Keeps nominal fuel/vehicle categories, adds a city-highway consumption gap, and removes test-driven PCA selection. Excluding MODEL avoids memorizing vehicle names; validate by model/year groups for deployment.
@@ -10,7 +14,7 @@ Correctly names the target: the original predicts CO2EMISSIONS, not fuel consump
 
 FuelConsumption.csv with CO2EMISSIONS and vehicle specifications/consumption values. Predicting emissions using consumption is valid only when consumption is available at inference.
 
-Data is not included in the source repository. Obtain the original dataset legally and verify its provenance, schema and license. No real-data accuracy claim is made. Missing labels are removed and counted in the report; missing predictors are imputed. Do not add identifiers, post-outcome fields or target-derived columns as predictors. Columns beyond the documented schema require manual leakage review.
+Data is not included in the source repository. Obtain the original dataset legally and verify its provenance, schema and license. Measured results on the supplied dataset are documented in [RESULTS.md](RESULTS.md). Missing labels are removed and counted in the report; missing predictors are imputed. Do not add identifiers, post-outcome fields or target-derived columns as predictors. Columns beyond the documented schema require manual leakage review.
 
 ## Run
 
